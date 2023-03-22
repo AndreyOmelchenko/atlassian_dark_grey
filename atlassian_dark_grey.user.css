@@ -7,7 +7,7 @@
  * @preprocessor less
  *
  * ==/UserStyle== */
-@-moz-document regexp("bb.y*loud.net/.*") {
+@-moz-document regexp("https://bb.y.*loud.net/.*") {
     :root {
         --ds-background-selected: #117;
         --ds-surface: #335;
